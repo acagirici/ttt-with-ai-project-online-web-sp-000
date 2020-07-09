@@ -1,7 +1,7 @@
 module Computer
   Computer < Player
   
-   def move
+  def move
     
   end
   
