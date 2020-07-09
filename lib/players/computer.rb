@@ -21,5 +21,5 @@ module Players
     board.cells[8]
     "9"
   end
-  
+end
 end
