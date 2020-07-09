@@ -1,5 +1,5 @@
 module Players
-  Computer < Player
+  class Computer < Player
   
   def move
     board.cells[0]
