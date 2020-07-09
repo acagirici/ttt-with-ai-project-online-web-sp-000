@@ -1,8 +1,4 @@
 module Players
-  Human < Player
-  
-  def move
-    
-  end
+  class Human > Player
   
 end
