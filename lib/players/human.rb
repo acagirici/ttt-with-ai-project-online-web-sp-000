@@ -2,7 +2,7 @@ module Players
   class Human < Player
   
     def move(board)
-      input = gets.chomp(board)
+      input = gets.strip(board)
    end
   end
 end
