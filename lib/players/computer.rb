@@ -1,4 +1,4 @@
-module Computer
+module Players
   Computer < Player
   
   def move
