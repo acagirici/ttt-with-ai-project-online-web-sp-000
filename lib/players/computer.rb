@@ -18,7 +18,7 @@ module Players
     "7"
     elsif board.cells[7]
     "8"
-    else board.cells[8]
+    elsif board.cells[8]
     "9"
   end
   end
